@@ -70,7 +70,7 @@ except:
 time.sleep(5)
 
 #driver.quit()
-#driver.close()
+
 
 
 
