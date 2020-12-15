@@ -68,8 +68,7 @@ except:
 
 
 time.sleep(5)
-
-#driver.quit()
+#muitos testes
 
 
 
