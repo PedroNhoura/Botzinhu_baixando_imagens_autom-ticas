@@ -1,0 +1,8 @@
+.idea
+__pycache__
+build
+dist
+venv
+bot_anitta.spec
+debug.log
+usando_selenium_site.spec

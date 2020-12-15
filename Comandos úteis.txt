@@ -1,0 +1,10 @@
+Comando para compilar : pyinstaller -w ''nome do arquivo.py''
+
+git comandos : git status - para ver as pastas e arquivos
+                       git pull - irá fazer a sincronização dos arquivos da nuvem para o PC 
+                       git push - fazer o upload para o servidor do GitHub 
+                       git commit -m 'mensagem que vai ficar salva do commit' - vai criar um checkpoint para não perder os dados 
+                       git add 'nome do arquivo' - adiciona o arquivo que não está treckeado 
+                       diratório = /f/Arquivos Gerais/Python Estudos/Selenium_Aprendizado
+                       
+                       
